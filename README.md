@@ -1,8 +1,8 @@
 # EXCEL-sales-P1 - Bike Sales Dashboard
 
-![Dashboard Screenshot](path-to-your-screenshot.png)
+![Dashboard Screenshot](https://github.com/Mubasher-Rashidd/EXCEL-bikesales-P1/blob/main/Dashboard.png?raw=true)
 
-This repository contains the **EXCEL-sales-P1** project, an interactive **Bike Sales Dashboard** created using Microsoft Excel. The project follows a structured process of data analysis and includes various stages such as data cleaning, processing, and visualization. It ultimately answers key business questions related to bike sales and customer demographics.
+This repository contains the **EXCEL-bikesales-P1** project, an interactive **Bike Sales Dashboard** created using Microsoft Excel. The project follows a structured process of data analysis and includes various stages such as data cleaning, processing, and visualization. It ultimately answers key business questions related to bike sales and customer demographics.
 
 ## Project Overview
 
@@ -69,7 +69,7 @@ This Excel-based dashboard analyzes bike sales data to provide insights into cus
 
 ## How to Use
 
-1. Download and open the **EXCEL-sales-P1.xlsx** file in Microsoft Excel.
+1. Download and open the **EXCEL-bikesales-P1.xlsx** file in Microsoft Excel.
 2. Use the **slicers** to filter the data based on the following dimensions:
    - **Gender** (Male/Female)
    - **Customer Type** (Couples/Singles)
@@ -78,7 +78,7 @@ This Excel-based dashboard analyzes bike sales data to provide insights into cus
 
 ## Installation
 
-No installation required. Simply download the **EXCEL-sales-P1.xlsx** file and open it in Microsoft Excel.
+No installation required. Simply download the **EXCEL-bikesales-P1.xlsx** file and open it in Microsoft Excel.
 
 ## Requirements
 
