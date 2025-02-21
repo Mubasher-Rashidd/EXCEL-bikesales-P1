@@ -1,4 +1,4 @@
-# EXCEL-sales-P1 - Bike Sales Dashboard
+# Bike Sales Dashboard
 
 ![Dashboard Screenshot](https://github.com/Mubasher-Rashidd/EXCEL-bikesales-P1/blob/main/Dashboard.png?raw=true)
 
