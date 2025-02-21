@@ -71,8 +71,8 @@ This Excel-based dashboard analyzes bike sales data to provide insights into cus
 
 1. Download and open the **EXCEL-bikesales-P1.xlsx** file in Microsoft Excel.
 2. Use the **slicers** to filter the data based on the following dimensions:
-   - **Gender** (Male/Female)
-   - **Customer Type** (Couples/Singles)
+   - **Region** (Europe/North America/Pacific)
+   - **Customer Type** (Married/Single)
 3. Explore the **PivotTables**, **PivotCharts**, and **visualizations** that automatically update based on slicer selections.
 4. Review the dashboard for answers to key business questions and insights on sales performance and customer demographics.
 
