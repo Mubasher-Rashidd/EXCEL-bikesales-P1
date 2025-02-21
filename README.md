@@ -69,7 +69,7 @@ This Excel-based dashboard analyzes bike sales data to provide insights into cus
 
 ## How to Use
 
-1. Download and open the **EXCEL-bikesales-P1.xlsx** file in Microsoft Excel.
+1. Download and open the **Dataset-bikesales.xlsx** file in Microsoft Excel.
 2. Use the **slicers** to filter the data based on the following dimensions:
    - **Region** (Europe/North America/Pacific)
    - **Customer Type** (Married/Single)
@@ -78,7 +78,7 @@ This Excel-based dashboard analyzes bike sales data to provide insights into cus
 
 ## Installation
 
-No installation required. Simply download the **EXCEL-bikesales-P1.xlsx** file and open it in Microsoft Excel.
+No installation required. Simply download the **Dataset-bikesales.xlsx** file and open it in Microsoft Excel.
 
 ## Requirements
 
